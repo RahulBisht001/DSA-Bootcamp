@@ -1,6 +1,6 @@
-# Data-Structure-and-Algorithm-Bootcamp 
+## Data-Structure-and-Algorithm-Bootcamp 
 
-## Java Course
+### Java Course
 
-### Code for Basic to Advance Implementation of Data Structure in Java
+#### Code for Basic to Advance Implementation of Data Structure in Java
 
