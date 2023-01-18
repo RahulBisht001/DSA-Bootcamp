@@ -18,7 +18,10 @@ link 🔗 : https://tinyl.io/7hRm
 
 1. Graph Data Structure 
 
-   Playlist Link : (https://tinyl.io/7iAH)
+   Playlist Link : https://tinyl.io/7iAH
    
+2. Dynamic Programming By Striver
+   
+   playList Link : https://tinyl.io/7iAX
   
 
