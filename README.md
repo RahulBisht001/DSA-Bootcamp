@@ -18,6 +18,7 @@ link 🔗 : https://tinyl.io/7hRm
 
 1. Graph Data Structure 
 
-   Playlist Link : [Hello World Graph Playlist](https://tinyl.io/7iAH)
+   Playlist Link : (https://tinyl.io/7iAH)
+   
   
 
