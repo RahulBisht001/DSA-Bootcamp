@@ -1,5 +1,5 @@
+  // Function to detect cycle in an undirected graph.
 class Solution {
-    // Function to detect cycle in an undirected graph.
     public boolean isCycle
             (int v, ArrayList<ArrayList<Integer>> adj) {
         
