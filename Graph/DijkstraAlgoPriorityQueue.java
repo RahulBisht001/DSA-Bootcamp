@@ -1,4 +1,7 @@
-
+/*
+### Time Complexity : E*(Log V)
+where E is The number of Edges in the Graph and V is Number of Vertex
+*/
 class Solution
 {
    static int[] dijkstra(int v, ArrayList<ArrayList<ArrayList<Integer>>> adj, int s)
