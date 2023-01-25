@@ -34,6 +34,6 @@ Link 🔗 : https://tinyl.io/7ijc
  
   
   
-### ✅  C <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c-original.svg" alt="C" width="40" height="40"/>
+### ✅  C <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 #### c Resources
 
