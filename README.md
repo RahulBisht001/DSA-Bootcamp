@@ -30,6 +30,10 @@ Link 🔗 : https://tinyl.io/7ijc
 3. Completer C++ Placement  DSA Course By Love Babber
     
     playlist Link : https://tinyl.io/7kEi
+    
+ 
   
   
+### ✅  C <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c-original.svg" alt="C" width="40" height="40"/>
+#### c Resources
 
