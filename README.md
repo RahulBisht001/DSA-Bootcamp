@@ -1,6 +1,7 @@
-![logo](https://github.com/RahulBisht001/DSA-Bootcamp/blob/main/DS.png)
+
 
 <h1 align="center">Data-Structure-and-Algorithm-Bootcamp </h1>
+<img src="https://pin.it/7rpc9xJ">
 
 ## Java Course
 
